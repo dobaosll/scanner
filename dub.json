@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Vladimir Shabunin"
+	],
+	"copyright": "Copyright © 2020, Vladimir Shabunin",
+	"dependencies": {
+		"tinyredis": "~>2.2.1"
+	},
+	"description": "Scan KNX line",
+	"license": "MIT",
+	"name": "dobaosll_scan"
+}
